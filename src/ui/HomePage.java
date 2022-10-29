@@ -121,7 +121,7 @@ public class HomePage extends javax.swing.JFrame {
 
         viewPanel.setName("viewPanel"); // NOI18N
 
-        jLabel2.setIcon(new javax.swing.ImageIcon(getClass().getResource("/image/background1.png"))); // NOI18N
+        jLabel2.setIcon(new javax.swing.ImageIcon(getClass().getResource("/image/login.png"))); // NOI18N
         jLabel2.setText("jLabel2");
 
         javax.swing.GroupLayout viewPanelLayout = new javax.swing.GroupLayout(viewPanel);
